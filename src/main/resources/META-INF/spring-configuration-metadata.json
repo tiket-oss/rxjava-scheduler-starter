@@ -1,0 +1,16 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tiket.tix.common.spring.rxjava.autoconfigure.SchedulerProperties",
+      "name": "tiket.rxjava.support",
+      "type": "com.tiket.tix.common.spring.rxjava.autoconfigure.SchedulerProperties"
+    },
+    {
+      "sourceType": "com.tiket.tix.common.spring.rxjava.autoconfigure.SchedulerProperties",
+      "name": "tiket.rxjava.support.schedulers",
+      "type": "java.util.Map"
+    }
+  ],
+  "properties": []
+}
